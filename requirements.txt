@@ -1,0 +1,11 @@
+# PyTorch'u CUDA sürümüne uygun kurun (bkz. README): https://pytorch.org/get-started/locally/
+torch>=2.4
+torchvision>=0.19
+timm>=1.0
+opencv-python-headless>=4.8
+numpy>=1.26
+scipy>=1.11
+pillow>=10.0
+tabulate>=0.9
+tensorboard>=2.15
+matplotlib>=3.8
